@@ -1,4 +1,4 @@
-baseurl = "web3d.onrender.com"
+baseurl = "https://web3d.onrender.com"
 title = "Web 3D"
 theme = "hugo-nederburg-theme"
 languageCode = "en-us"
