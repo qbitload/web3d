@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Web 3D</title>
+    <link>https://web3d.onrender.com/categories/</link>
+    <description>Recent content in Categories on Web 3D</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Jan 2021 18:25:22 +0530</lastBuildDate><atom:link href="https://web3d.onrender.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3d</title>
+      <link>https://web3d.onrender.com/categories/3d/</link>
+      <pubDate>Thu, 14 Jan 2021 18:25:22 +0530</pubDate>
+      
+      <guid>https://web3d.onrender.com/categories/3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blender</title>
+      <link>https://web3d.onrender.com/categories/blender/</link>
+      <pubDate>Thu, 14 Jan 2021 18:25:22 +0530</pubDate>
+      
+      <guid>https://web3d.onrender.com/categories/blender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>modélisation</title>
+      <link>https://web3d.onrender.com/categories/mod%C3%A9lisation/</link>
+      <pubDate>Thu, 14 Jan 2021 18:25:22 +0530</pubDate>
+      
+      <guid>https://web3d.onrender.com/categories/mod%C3%A9lisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>three.js</title>
+      <link>https://web3d.onrender.com/categories/three.js/</link>
+      <pubDate>Thu, 14 Jan 2021 18:25:22 +0530</pubDate>
+      
+      <guid>https://web3d.onrender.com/categories/three.js/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
