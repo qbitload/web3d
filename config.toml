@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "determined-lalande-a7e60e.netlify.app"
 title = "Web 3D"
 theme = "hugo-nederburg-theme"
 languageCode = "en-us"
@@ -8,6 +8,7 @@ disqusShortname = ""
 googleAnalytics = ""
 preserveTaxonomyNames = true
 paginate = 4 #frontpage pagination
+
 
 [privacy]
   # Google Analytics privacy settings - https://gohugo.io/about/hugo-and-gdpr/index.html#googleanalytics
