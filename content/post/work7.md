@@ -4,7 +4,7 @@ showonlyimage = false
 date = "2018-01-01T19:57:40+05:30"
 title = "Post with a Gallery"
 writer = "Göran Svensson"
-draft = false
+draft = true
 weight = 7
 +++
 

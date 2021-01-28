@@ -5,7 +5,7 @@ date = "2017-05-05T19:44:32+05:30"
 title = "Another Awesome Post"
 writer = "Göran Svensson"
 categories = [ "" ]
-draft = false
+draft = true
 weight = 3
 +++
 

@@ -1,5 +1,5 @@
 +++
-draft = false
+draft = true
 image = "img/portfolio/vr.jpg"
 showonlyimage = false
 date = "2018-05-06T20:02:19+05:30"

@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/portfolio/netflix.jpg"
+image = "img/portfolio/octane.webp"
 date = "2021-01-14T18:25:22+05:30"
 title = "three.js model"
 writer = "Yahia Aouir"

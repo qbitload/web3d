@@ -6,7 +6,17 @@
     <description>Recent content in three.js on Web 3D</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Jan 2021 18:25:22 +0530</lastBuildDate><atom:link href="https://web3d.onrender.com/categories/three.js/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Jan 2021 18:27:22 +0530</lastBuildDate><atom:link href="https://web3d.onrender.com/categories/three.js/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>three.js model</title>
+      <link>https://web3d.onrender.com/post/shapes/</link>
+      <pubDate>Wed, 27 Jan 2021 18:27:22 +0530</pubDate>
+      
+      <guid>https://web3d.onrender.com/post/shapes/</guid>
+      <description>&lt;p&gt;Un cube modéliser avec la three.js&lt;/p&gt;
+&lt;p&gt;Three.js is a cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser using WebGL.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Cube in three.js</title>
       <link>https://web3d.onrender.com/post/cube3js/</link>

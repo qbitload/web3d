@@ -1,5 +1,5 @@
 +++
-draft = false
+draft = true
 image = "img/portfolio/decor.jpg"
 showonlyimage = true
 date = "2018-09-30T20:23:59+05:30"

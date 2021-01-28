@@ -1,8 +1,8 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/portfolio/rv.jpg"
-date = "2021-02-14T18:25:22+05:30"
+image = "img/portfolio/whale.jpg"
+date = "2021-01-27T18:25:22+05:30"
 title = "three.js Model"
 writer = "Yahia Aouir"
 categories = [ "threejs"]
