@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Web 3D</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Web 3D</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Jan 2021 18:25:22 +0530</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modéliser une table en 3D</title>
+      <link>http://localhost:1313/post/table/</link>
+      <pubDate>Sun, 31 Jan 2021 18:25:22 +0530</pubDate>
+      
+      <guid>http://localhost:1313/post/table/</guid>
+      <description>&lt;p&gt;La modélisation tridimensionnelle est l&amp;rsquo;étape en infographie tridimensionnelle qui consiste à créer, dans un logiciel de modélisation 3D, un objet en trois dimensions, par ajout, soustraction et modifications de ses constituants.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>three.js model</title>
+      <link>http://localhost:1313/post/shapes/</link>
+      <pubDate>Wed, 27 Jan 2021 18:27:22 +0530</pubDate>
+      
+      <guid>http://localhost:1313/post/shapes/</guid>
+      <description>&lt;p&gt;Un cube modéliser avec la three.js&lt;/p&gt;
+&lt;p&gt;Three.js is a cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser using WebGL.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>three.js Model</title>
+      <link>http://localhost:1313/post/threejsrobot/</link>
+      <pubDate>Wed, 27 Jan 2021 18:25:22 +0530</pubDate>
+      
+      <guid>http://localhost:1313/post/threejsrobot/</guid>
+      <description>&lt;p&gt;La modélisation tridimensionnelle est l&amp;rsquo;étape en infographie tridimensionnelle qui consiste à créer, dans un logiciel de modélisation 3D, un objet en trois dimensions, par ajout, soustraction et modifications de ses constituants.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cube in three.js</title>
+      <link>http://localhost:1313/post/cube3js/</link>
+      <pubDate>Sun, 24 Jan 2021 18:25:22 +0530</pubDate>
+      
+      <guid>http://localhost:1313/post/cube3js/</guid>
+      <description>&lt;p&gt;Un cube modéliser avec la three.js&lt;/p&gt;
+&lt;p&gt;Three.js is a cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser using WebGL.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Modélisation en 3D</title>
+      <link>http://localhost:1313/post/corona/</link>
+      <pubDate>Thu, 14 Jan 2021 18:25:22 +0530</pubDate>
+      
+      <guid>http://localhost:1313/post/corona/</guid>
+      <description>&lt;p&gt;La modélisation tridimensionnelle est l&amp;rsquo;étape en infographie tridimensionnelle qui consiste à créer, dans un logiciel de modélisation 3D, un objet en trois dimensions, par ajout, soustraction et modifications de ses constituants.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>three.js model</title>
+      <link>http://localhost:1313/post/threejs/</link>
+      <pubDate>Thu, 14 Jan 2021 18:25:22 +0530</pubDate>
+      
+      <guid>http://localhost:1313/post/threejs/</guid>
+      <description>&lt;p&gt;La modélisation tridimensionnelle est l&amp;rsquo;étape en infographie tridimensionnelle qui consiste à créer, dans un logiciel de modélisation 3D, un objet en trois dimensions, par ajout, soustraction et modifications de ses constituants.&lt;/p&gt;
+&lt;p&gt;bonjour&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
