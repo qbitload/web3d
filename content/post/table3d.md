@@ -19,7 +19,7 @@ puis pour l'afficher sur le navigateur on utiliser la three.js qui une librairie
 
 
 <!--more-->
-
+Pour des raison de performance on a opté pour des modeles qui sont plus legeres sur le navigateur comme celui affiché en dessous, dont la taille est de 4 Mo, mais avec cette taille petite on voit une latency considirable pour l'afficher.
 
 {{< hp5 "https://qbitload.github.io/3dscene/" >}}
 
