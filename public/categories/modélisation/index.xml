@@ -8,6 +8,17 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 31 Jan 2021 18:21:22 +0530</lastBuildDate><atom:link href="https://web3d.onrender.com/categories/mod%C3%A9lisation/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Table meeting Modélisée en 3D three.js</title>
+      <link>https://web3d.onrender.com/post/meetingtable/</link>
+      <pubDate>Sun, 31 Jan 2021 18:21:22 +0530</pubDate>
+      
+      <guid>https://web3d.onrender.com/post/meetingtable/</guid>
+      <description>&lt;p&gt;Une Tabe Meeting modélisée avec la three.js&lt;/p&gt;
+&lt;p&gt;On a modélisé une table en 3D en utilisant l&amp;rsquo;application blender.
+puis pour l&amp;rsquo;afficher sur le navigateur on utiliser la three.js qui une librairie Javascript cross-browser utiliser pour l&amp;rsquo;affichage des animation 3D en utilisant le WebGL&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Table Modélisée en 3D three.js</title>
       <link>https://web3d.onrender.com/post/table3d/</link>
       <pubDate>Sun, 31 Jan 2021 18:21:22 +0530</pubDate>
