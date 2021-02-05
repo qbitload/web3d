@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/portfolio/table.jpg"
+image = "img/portfolio/tablem.jpg"
 date = "2021-01-31T18:21:22+05:30"
 title = "Table meeting Modélisée en 3D three.js"
 writer = "Yahia Aouir"
